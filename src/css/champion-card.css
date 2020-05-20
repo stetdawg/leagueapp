@@ -1,0 +1,53 @@
+/*
+
+  Name:   champion-card.css
+  Site:   League App
+  Auth:   Anthony Isbell
+  Crtd:   5/20/2020
+  Mod:    5/20/2020
+
+ */
+
+
+.champion-card{
+  display: block;
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 300px;
+  padding: 1em;
+  margin: auto;
+
+  background-color: #EFEFEF;
+  background-size: cover;
+  background-position: center;
+
+
+  box-sizing: border-box;
+}
+
+.champion-card p{
+  margin: 0;
+  text-align: center;
+}
+
+.champion-card img{
+  display: block;
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  margin: 0 auto 8px;
+}
+
+.champion-name{
+  font-size: 1.3em;
+  line-height: 1.4em;
+  font-weight: 800;
+}
+
+.champion-role{
+  font-size: 1.0em;
+  line-height: 1.2em;
+  font-weight: 400;
+}

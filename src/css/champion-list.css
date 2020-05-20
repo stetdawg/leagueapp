@@ -1,0 +1,24 @@
+/*
+
+  Name:   champion-list.css
+  Site:   League App
+  Auth:   Anthony Isbell
+  Crtd:   5/20/2020
+  Mod:    5/20/2020
+
+ */
+
+
+
+.champion-list{
+  display: grid;
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding: 1em;
+  margin: 0 auto;
+
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1em;
+  /* grid-auto-rows: minmax(200px, 300px); */
+}

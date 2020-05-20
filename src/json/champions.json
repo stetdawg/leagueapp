@@ -1,0 +1,1621 @@
+[
+	{
+		"name" : "Aatrox",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Ahri",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Akali",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "t"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Alistar",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Amumu",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Anivia",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Annie",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Aphelios",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Ashe",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Aurelion Sol",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Azir",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Bard",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Blitzcrank",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Brand",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : "m"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Braum",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Caitlyn",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Camille",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : "j"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Cassiopeia",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "t"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Cho'Gath",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : "m"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Corki",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "a"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Darius",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Diana",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Draven",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Dr. Mundo",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : "j"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Ekko",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "j"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Elise",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Evelynn",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Ezreal",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Fiddlesticks",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Fiora",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Fizz",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Galio",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Gangplank",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : "m"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Garen",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Gnar",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Gragas",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Graves",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Hecarim",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : "t"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Heimerdinger",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "a"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Illaoi",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Irelia",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : "m"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Ivern",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Janna",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Jarvan IV",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : "t"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Jax",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : "j"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Jayce",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : "m"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Jhin",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Jinx",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Kai'Sa",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Kalista",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : "t"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Karma",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Karthus",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : "m"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Kassadin",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Katarina",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Kayle",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Kayn",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Kennen",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : "m"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Kha'Zix",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Kindred",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Kled",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Kog'Maw",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : "m"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "LeBlanc",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Lee Sin",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Leona",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Lissandra",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Lucian",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : "t"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Lulu",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Lux",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Malphite",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Malzahar",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Maokai",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Master Yi",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Miss Fortune",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Mordekaiser",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Morgana",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : "m"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Nami",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Nasus",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Nautilus",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : "j"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Neeko",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Nidalee",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Nocturne",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Nunu & Willump",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Olaf",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : "t"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Orianna",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Ornn",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : "m"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Pantheon",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "j"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Poppy",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Pyke",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Qiyana",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "j"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Quinn",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Rakan",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Rammus",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Rek'Sai",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Renekton",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Rengar",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : "t"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},
+	{
+		"name" : "Riven",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Rumble",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : "m"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Ryze",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "t"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Sejuani",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Senna",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Shaco",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Shen",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Shyvana",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Singed",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Sion",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Sivir",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Skarner",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : "t"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Sona",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Soraka",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Swain",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Sylas",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "j"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Syndra",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Tahm Kench",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : "t"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Taliyah",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : "a"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Talon",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Taric",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Teemo",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Thresh",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Tristana",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Trundle",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Tryndamere",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Twitsted Fate",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Twitch",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Udyr",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Urgot",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Varus",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Vayne",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : "t"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Veigar",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Vel'Koz",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Vi",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Viktor",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Vladimir",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "t"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Volibear",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Warwick",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Wukong",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : "t"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Xayah",
+		"img" : "",
+		"role" : {
+			"primary" : "a",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Xerath",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Xin Zhao",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Yasuo",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "a"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Yorick",
+		"img" : "",
+		"role" : {
+			"primary" : "t",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Yuumi",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Zac",
+		"img" : "",
+		"role" : {
+			"primary" : "j",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Zed",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Ziggs",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "a"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Zilean",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : "s"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Zoe",
+		"img" : "",
+		"role" : {
+			"primary" : "m",
+			"secondary" : ""
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	},{
+		"name" : "Zyra",
+		"img" : "",
+		"role" : {
+			"primary" : "s",
+			"secondary" : "m"
+			},
+		"tier" : "",
+		"early-game" : "",
+		"mid-game" : "",
+		"late-game" : ""
+	}
+]
