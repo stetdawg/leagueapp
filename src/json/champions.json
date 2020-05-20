@@ -3,7 +3,7 @@
 		"name" : "Aatrox",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -14,7 +14,7 @@
 		"name" : "Ahri",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -25,8 +25,8 @@
 		"name" : "Akali",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "t"
+			"primary" : "mid",
+			"secondary" : "top"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -36,7 +36,7 @@
 		"name" : "Alistar",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -47,7 +47,7 @@
 		"name" : "Amumu",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -58,7 +58,7 @@
 		"name" : "Anivia",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -69,8 +69,8 @@
 		"name" : "Annie",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "s"
+			"primary" : "mid",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -80,7 +80,7 @@
 		"name" : "Aphelios",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
+			"primary" : "bottom",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -91,7 +91,7 @@
 		"name" : "Ashe",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
+			"primary" : "bottom",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -102,7 +102,7 @@
 		"name" : "Aurelion Sol",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -113,7 +113,7 @@
 		"name" : "Azir",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -124,7 +124,7 @@
 		"name" : "Bard",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -135,7 +135,7 @@
 		"name" : "Blitzcrank",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -146,8 +146,8 @@
 		"name" : "Brand",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
-			"secondary" : "m"
+			"primary" : "support",
+			"secondary" : "mid"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -157,7 +157,7 @@
 		"name" : "Braum",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -168,7 +168,7 @@
 		"name" : "Caitlyn",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
+			"primary" : "bottom",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -179,8 +179,8 @@
 		"name" : "Camille",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
-			"secondary" : "j"
+			"primary" : "top",
+			"secondary" : "jungler"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -190,8 +190,8 @@
 		"name" : "Cassiopeia",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "t"
+			"primary" : "mid",
+			"secondary" : "top"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -201,8 +201,8 @@
 		"name" : "Cho'Gath",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
-			"secondary" : "m"
+			"primary" : "top",
+			"secondary" : "mid"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -212,8 +212,8 @@
 		"name" : "Corki",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "a"
+			"primary" : "mid",
+			"secondary" : "bottom"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -223,7 +223,7 @@
 		"name" : "Darius",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -234,7 +234,7 @@
 		"name" : "Diana",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -245,7 +245,7 @@
 		"name" : "Draven",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
+			"primary" : "bottom",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -256,8 +256,8 @@
 		"name" : "Dr. Mundo",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
-			"secondary" : "j"
+			"primary" : "top",
+			"secondary" : "jungler"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -267,8 +267,8 @@
 		"name" : "Ekko",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "j"
+			"primary" : "mid",
+			"secondary" : "jungler"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -278,7 +278,7 @@
 		"name" : "Elise",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -289,7 +289,7 @@
 		"name" : "Evelynn",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -300,7 +300,7 @@
 		"name" : "Ezreal",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
+			"primary" : "bottom",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -311,8 +311,8 @@
 		"name" : "Fiddlesticks",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
-			"secondary" : "s"
+			"primary" : "jungler",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -322,7 +322,7 @@
 		"name" : "Fiora",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -333,7 +333,7 @@
 		"name" : "Fizz",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -344,8 +344,8 @@
 		"name" : "Galio",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "s"
+			"primary" : "mid",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -355,8 +355,8 @@
 		"name" : "Gangplank",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
-			"secondary" : "m"
+			"primary" : "top",
+			"secondary" : "mid"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -366,7 +366,7 @@
 		"name" : "Garen",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -377,7 +377,7 @@
 		"name" : "Gnar",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -388,8 +388,8 @@
 		"name" : "Gragas",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
-			"secondary" : "s"
+			"primary" : "jungler",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -399,7 +399,7 @@
 		"name" : "Graves",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -410,8 +410,8 @@
 		"name" : "Hecarim",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
-			"secondary" : "t"
+			"primary" : "jungler",
+			"secondary" : "top"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -421,8 +421,8 @@
 		"name" : "Heimerdinger",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "a"
+			"primary" : "mid",
+			"secondary" : "bottom"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -432,7 +432,7 @@
 		"name" : "Illaoi",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -443,8 +443,8 @@
 		"name" : "Irelia",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
-			"secondary" : "m"
+			"primary" : "top",
+			"secondary" : "mid"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -454,7 +454,7 @@
 		"name" : "Ivern",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -465,7 +465,7 @@
 		"name" : "Janna",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -476,8 +476,8 @@
 		"name" : "Jarvan IV",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
-			"secondary" : "t"
+			"primary" : "jungler",
+			"secondary" : "top"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -487,8 +487,8 @@
 		"name" : "Jax",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
-			"secondary" : "j"
+			"primary" : "top",
+			"secondary" : "jungler"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -498,8 +498,8 @@
 		"name" : "Jayce",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
-			"secondary" : "m"
+			"primary" : "top",
+			"secondary" : "mid"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -509,7 +509,7 @@
 		"name" : "Jhin",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
+			"primary" : "bottom",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -520,7 +520,7 @@
 		"name" : "Jinx",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
+			"primary" : "bottom",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -531,7 +531,7 @@
 		"name" : "Kai'Sa",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
+			"primary" : "bottom",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -542,8 +542,8 @@
 		"name" : "Kalista",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
-			"secondary" : "t"
+			"primary" : "bottom",
+			"secondary" : "top"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -553,7 +553,7 @@
 		"name" : "Karma",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -564,8 +564,8 @@
 		"name" : "Karthus",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
-			"secondary" : "m"
+			"primary" : "jungler",
+			"secondary" : "mid"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -575,7 +575,7 @@
 		"name" : "Kassadin",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -586,7 +586,7 @@
 		"name" : "Katarina",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -597,7 +597,7 @@
 		"name" : "Kayle",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -608,7 +608,7 @@
 		"name" : "Kayn",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -619,8 +619,8 @@
 		"name" : "Kennen",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
-			"secondary" : "m"
+			"primary" : "top",
+			"secondary" : "mid"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -630,7 +630,7 @@
 		"name" : "Kha'Zix",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -641,7 +641,7 @@
 		"name" : "Kindred",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -652,7 +652,7 @@
 		"name" : "Kled",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -663,8 +663,8 @@
 		"name" : "Kog'Maw",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
-			"secondary" : "m"
+			"primary" : "bottom",
+			"secondary" : "mid"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -674,7 +674,7 @@
 		"name" : "LeBlanc",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -685,7 +685,7 @@
 		"name" : "Lee Sin",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -696,7 +696,7 @@
 		"name" : "Leona",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -707,7 +707,7 @@
 		"name" : "Lissandra",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -718,8 +718,8 @@
 		"name" : "Lucian",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
-			"secondary" : "t"
+			"primary" : "bottom",
+			"secondary" : "top"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -729,7 +729,7 @@
 		"name" : "Lulu",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -740,8 +740,8 @@
 		"name" : "Lux",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "s"
+			"primary" : "mid",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -751,7 +751,7 @@
 		"name" : "Malphite",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -762,7 +762,7 @@
 		"name" : "Malzahar",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -773,8 +773,8 @@
 		"name" : "Maokai",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
-			"secondary" : "s"
+			"primary" : "top",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -784,7 +784,7 @@
 		"name" : "Master Yi",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -795,8 +795,8 @@
 		"name" : "Miss Fortune",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
-			"secondary" : "s"
+			"primary" : "bottom",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -806,7 +806,7 @@
 		"name" : "Mordekaiser",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -817,8 +817,8 @@
 		"name" : "Morgana",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
-			"secondary" : "m"
+			"primary" : "support",
+			"secondary" : "mid"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -828,7 +828,7 @@
 		"name" : "Nami",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -839,7 +839,7 @@
 		"name" : "Nasus",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -850,8 +850,8 @@
 		"name" : "Nautilus",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
-			"secondary" : "j"
+			"primary" : "support",
+			"secondary" : "jungler"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -861,8 +861,8 @@
 		"name" : "Neeko",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "s"
+			"primary" : "mid",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -872,7 +872,7 @@
 		"name" : "Nidalee",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -883,7 +883,7 @@
 		"name" : "Nocturne",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -894,7 +894,7 @@
 		"name" : "Nunu & Willump",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -905,8 +905,8 @@
 		"name" : "Olaf",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
-			"secondary" : "t"
+			"primary" : "jungler",
+			"secondary" : "top"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -916,7 +916,7 @@
 		"name" : "Orianna",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -927,8 +927,8 @@
 		"name" : "Ornn",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
-			"secondary" : "m"
+			"primary" : "top",
+			"secondary" : "mid"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -938,8 +938,8 @@
 		"name" : "Pantheon",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "j"
+			"primary" : "mid",
+			"secondary" : "jungler"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -949,7 +949,7 @@
 		"name" : "Poppy",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -960,7 +960,7 @@
 		"name" : "Pyke",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -971,8 +971,8 @@
 		"name" : "Qiyana",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "j"
+			"primary" : "mid",
+			"secondary" : "jungler"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -982,7 +982,7 @@
 		"name" : "Quinn",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -993,7 +993,7 @@
 		"name" : "Rakan",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1004,7 +1004,7 @@
 		"name" : "Rammus",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1015,7 +1015,7 @@
 		"name" : "Rek'Sai",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1026,7 +1026,7 @@
 		"name" : "Renekton",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1037,8 +1037,8 @@
 		"name" : "Rengar",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
-			"secondary" : "t"
+			"primary" : "jungler",
+			"secondary" : "top"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1049,7 +1049,7 @@
 		"name" : "Riven",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1060,8 +1060,8 @@
 		"name" : "Rumble",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
-			"secondary" : "m"
+			"primary" : "top",
+			"secondary" : "mid"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1071,8 +1071,8 @@
 		"name" : "Ryze",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "t"
+			"primary" : "mid",
+			"secondary" : "top"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1082,7 +1082,7 @@
 		"name" : "Sejuani",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1093,8 +1093,8 @@
 		"name" : "Senna",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
-			"secondary" : "s"
+			"primary" : "bottom",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1104,7 +1104,7 @@
 		"name" : "Shaco",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1115,8 +1115,8 @@
 		"name" : "Shen",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
-			"secondary" : "s"
+			"primary" : "top",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1126,7 +1126,7 @@
 		"name" : "Shyvana",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1137,7 +1137,7 @@
 		"name" : "Singed",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1148,7 +1148,7 @@
 		"name" : "Sion",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1159,7 +1159,7 @@
 		"name" : "Sivir",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1170,8 +1170,8 @@
 		"name" : "Skarner",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
-			"secondary" : "t"
+			"primary" : "jungler",
+			"secondary" : "top"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1181,7 +1181,7 @@
 		"name" : "Sona",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1192,7 +1192,7 @@
 		"name" : "Soraka",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1203,8 +1203,8 @@
 		"name" : "Swain",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "s"
+			"primary" : "mid",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1214,8 +1214,8 @@
 		"name" : "Sylas",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "j"
+			"primary" : "mid",
+			"secondary" : "jungler"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1225,7 +1225,7 @@
 		"name" : "Syndra",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1236,8 +1236,8 @@
 		"name" : "Tahm Kench",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
-			"secondary" : "t"
+			"primary" : "support",
+			"secondary" : "top"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1247,8 +1247,8 @@
 		"name" : "Taliyah",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
-			"secondary" : "a"
+			"primary" : "jungler",
+			"secondary" : "bottom"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1258,7 +1258,7 @@
 		"name" : "Talon",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1269,7 +1269,7 @@
 		"name" : "Taric",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1280,7 +1280,7 @@
 		"name" : "Teemo",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1291,7 +1291,7 @@
 		"name" : "Thresh",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1302,7 +1302,7 @@
 		"name" : "Tristana",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
+			"primary" : "bottom",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1313,8 +1313,8 @@
 		"name" : "Trundle",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
-			"secondary" : "s"
+			"primary" : "jungler",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1324,7 +1324,7 @@
 		"name" : "Tryndamere",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1335,7 +1335,7 @@
 		"name" : "Twitsted Fate",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1346,7 +1346,7 @@
 		"name" : "Twitch",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
+			"primary" : "bottom",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1357,7 +1357,7 @@
 		"name" : "Udyr",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1368,7 +1368,7 @@
 		"name" : "Urgot",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1379,7 +1379,7 @@
 		"name" : "Varus",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1390,8 +1390,8 @@
 		"name" : "Vayne",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
-			"secondary" : "t"
+			"primary" : "bottom",
+			"secondary" : "top"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1401,8 +1401,8 @@
 		"name" : "Veigar",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "s"
+			"primary" : "mid",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1412,8 +1412,8 @@
 		"name" : "Vel'Koz",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "s"
+			"primary" : "mid",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1423,7 +1423,7 @@
 		"name" : "Vi",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1434,7 +1434,7 @@
 		"name" : "Viktor",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1445,8 +1445,8 @@
 		"name" : "Vladimir",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "t"
+			"primary" : "mid",
+			"secondary" : "top"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1456,7 +1456,7 @@
 		"name" : "Volibear",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1467,7 +1467,7 @@
 		"name" : "Warwick",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1478,8 +1478,8 @@
 		"name" : "Wukong",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
-			"secondary" : "t"
+			"primary" : "jungler",
+			"secondary" : "top"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1489,7 +1489,7 @@
 		"name" : "Xayah",
 		"img" : "",
 		"role" : {
-			"primary" : "a",
+			"primary" : "bottom",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1500,8 +1500,8 @@
 		"name" : "Xerath",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "s"
+			"primary" : "mid",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1511,7 +1511,7 @@
 		"name" : "Xin Zhao",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1522,8 +1522,8 @@
 		"name" : "Yasuo",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "a"
+			"primary" : "mid",
+			"secondary" : "bottom"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1533,7 +1533,7 @@
 		"name" : "Yorick",
 		"img" : "",
 		"role" : {
-			"primary" : "t",
+			"primary" : "top",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1544,7 +1544,7 @@
 		"name" : "Yuumi",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
+			"primary" : "support",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1555,7 +1555,7 @@
 		"name" : "Zac",
 		"img" : "",
 		"role" : {
-			"primary" : "j",
+			"primary" : "jungler",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1566,7 +1566,7 @@
 		"name" : "Zed",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1577,8 +1577,8 @@
 		"name" : "Ziggs",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "a"
+			"primary" : "mid",
+			"secondary" : "bottom"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1588,8 +1588,8 @@
 		"name" : "Zilean",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
-			"secondary" : "s"
+			"primary" : "mid",
+			"secondary" : "support"
 			},
 		"tier" : "",
 		"early-game" : "",
@@ -1599,7 +1599,7 @@
 		"name" : "Zoe",
 		"img" : "",
 		"role" : {
-			"primary" : "m",
+			"primary" : "mid",
 			"secondary" : ""
 			},
 		"tier" : "",
@@ -1610,8 +1610,8 @@
 		"name" : "Zyra",
 		"img" : "",
 		"role" : {
-			"primary" : "s",
-			"secondary" : "m"
+			"primary" : "support",
+			"secondary" : "mid"
 			},
 		"tier" : "",
 		"early-game" : "",

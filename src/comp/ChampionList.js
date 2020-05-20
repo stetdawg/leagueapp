@@ -15,28 +15,24 @@ class ChampionList extends React.Component{
   constructor(props){
     super(props);
 
-    function createChampList(){
-      
-    }
+  }
+
+  createChampionCards = () => {
 
   }
 
   render(){
     return(
       <div className="champion-list">
-        <ChampionCard
-          name="Alistar"
-          role="Support"
-        />
-        <ChampionCard
-          name="Anivia"
-          role="Mid"
-        />
-        <ChampionCard
-          name={champions[0].name}
-          role={champions[0].role.primary}
-        />
-        {this.state}
+        {
+          champions.map(champion => (
+            <ChampionCard
+              name={champion.name}
+              role1={champion.role.primary}
+              role2={champion.role.secondary}
+            />
+          ))
+        }
       </div>
     )
   }
