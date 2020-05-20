@@ -1,0 +1,31 @@
+#header {
+display: flex;
+flex-direction: row;
+min-height: 5px;
+z-index: 100;
+position: sticky;
+min-width: 100vw;
+background-color: #1f3a5e;
+border-bottom:
+  black outset 1px;
+text-align: center;
+}
+#header nav {
+    display: flex;
+    width: 100%;
+}
+#header ul {
+    display: flex;
+    list-style-type: none;
+    width: inherit;
+    align-content: center;
+    height: 99%;
+    margin: inherit;
+    padding: inherit;
+    justify-content: space-evenly;
+    color: #64B890;
+}
+
+#header img{
+ width: 9em;
+}
